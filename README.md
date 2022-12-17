@@ -1,4 +1,4 @@
-# HTML-Javascript-Fund-Me-Full-Stack-Front-End-
+# HTML-Javascript-Fund-Me-Full-Stack-Front-End
 
 A minimalistic interface for my "Fund me" smart contract that contains 4 functions.
 A connect wallet function

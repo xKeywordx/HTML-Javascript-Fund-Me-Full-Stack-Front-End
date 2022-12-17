@@ -27,6 +27,7 @@ async function connect() {
   }
 }
 
+// get balance
 async function getBalance() {
   if (typeof window.ethereum != "undefined") {
     const provider = new ethers.providers.Web3Provider(window.ethereum);
@@ -56,7 +57,6 @@ async function fund() {
     } catch (error) {
       console.log(error);
     }
-    // ABI & address
   }
 }
 
